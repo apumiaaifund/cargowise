@@ -1,3 +1,5 @@
+[![CI Verification](https://github.com/apumiaaifund/cargowise-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/apumiaaifund/cargowise-demo/actions/workflows/ci.yml)
+
 <p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
 
 ![PROVEN](https://img.shields.io/badge/PROVEN-7%20passed-brightgreen)
