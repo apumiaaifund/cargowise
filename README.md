@@ -60,3 +60,6 @@ MIT
 > **Контроль архитектуры (`Apumia Blueprint`):** `CLEAN` (`0` циклических зависимостей, контроль сложности McCabe)  
 > **Анализ безопасности (`Bandit / Zero-Trust`):** `0` критических уязвимостей  
 > **Протокол достоверности (`Apumia Hub`):** `_synthetic: false` | `preservation: 100.0%` | `verified: true`
+
+## Commercial Source Code & Private Repo Access
+Instant read-only GitHub repository provisioning via Stripe, Apple Pay, or PayPal: **[Buy APUMIA CargoWise Audit Suite ($199) ↗](https://app.lava.top/products/99f337c0-186b-45a4-b95f-508e488664a9)**
